@@ -1,6 +1,6 @@
 - 👋 Hi, this is @MistykovLabs
 - 👀 We are a group of students from a technical university.
-- 🌱 We are currently working on creating a static library in c++
+- 🌱 We are currently working on creating a library in c++
 - 💞️ The code name of the project: IVT2024Pr2
 - 📫 thebefast@gmail.com to contact
 
